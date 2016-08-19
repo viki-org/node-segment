@@ -1,3 +1,5 @@
+module.exports = {
+  wildcard: `
 CDM-9200|0x0008|0
 CDM-8930|0x0008|0
 PPC-6600|0x0008|0
@@ -23,3 +25,5 @@ Nodejs|0x0008|0
 Node.js|0x0008|0
 ISO-9001|0x0008|0
 C++|0x0008|0
+  `,
+}
